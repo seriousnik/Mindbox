@@ -1,0 +1,16 @@
+C:\Users\Nik\source\repos\GeometryMindbox\UnitTestGeometry\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nik\source\repos\GeometryMindbox\UnitTestGeometry\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nik\source\repos\GeometryMindbox\UnitTestGeometry\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nik\source\repos\GeometryMindbox\UnitTestGeometry\bin\Debug\UnitTestGeometry.dll
+C:\Users\Nik\source\repos\GeometryMindbox\UnitTestGeometry\bin\Debug\UnitTestGeometry.pdb
+C:\Users\Nik\source\repos\GeometryMindbox\UnitTestGeometry\bin\Debug\GeometryMindbox.dll
+C:\Users\Nik\source\repos\GeometryMindbox\UnitTestGeometry\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Nik\source\repos\GeometryMindbox\UnitTestGeometry\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Nik\source\repos\GeometryMindbox\UnitTestGeometry\bin\Debug\GeometryMindbox.pdb
+C:\Users\Nik\source\repos\GeometryMindbox\UnitTestGeometry\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Nik\source\repos\GeometryMindbox\UnitTestGeometry\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Nik\source\repos\GeometryMindbox\UnitTestGeometry\obj\Debug\UnitTestGeometry.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\GeometryMindbox\UnitTestGeometry\obj\Debug\UnitTestGeometry.csproj.CopyComplete
+C:\Users\Nik\source\repos\GeometryMindbox\UnitTestGeometry\obj\Debug\UnitTestGeometry.dll
+C:\Users\Nik\source\repos\GeometryMindbox\UnitTestGeometry\obj\Debug\UnitTestGeometry.pdb
+C:\Users\Nik\source\repos\GeometryMindbox\UnitTestGeometry\obj\Debug\UnitTestGeometry.csprojAssemblyReference.cache

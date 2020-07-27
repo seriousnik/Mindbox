@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kp4QggXv6YF/QYIu0xjW2PvVIJXWC8r6/vrAOG+aIqZP4qyqYLrrRNA4gFMUOM5E7W8uG4szSMKFSFswuqFzlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nik\\source\\repos\\GeometryMindbox\\GeometryMindbox\\GeometryMindbox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nik\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

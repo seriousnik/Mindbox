@@ -1,0 +1,9 @@
+C:\Users\Nik\source\repos\GeometryMindbox\GeometryMindbox\bin\Debug\netstandard2.0\GeometryMindbox.deps.json
+C:\Users\Nik\source\repos\GeometryMindbox\GeometryMindbox\bin\Debug\netstandard2.0\GeometryMindbox.dll
+C:\Users\Nik\source\repos\GeometryMindbox\GeometryMindbox\bin\Debug\netstandard2.0\GeometryMindbox.pdb
+C:\Users\Nik\source\repos\GeometryMindbox\GeometryMindbox\obj\Debug\netstandard2.0\GeometryMindbox.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\GeometryMindbox\GeometryMindbox\obj\Debug\netstandard2.0\GeometryMindbox.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\GeometryMindbox\GeometryMindbox\obj\Debug\netstandard2.0\GeometryMindbox.AssemblyInfo.cs
+C:\Users\Nik\source\repos\GeometryMindbox\GeometryMindbox\obj\Debug\netstandard2.0\GeometryMindbox.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\GeometryMindbox\GeometryMindbox\obj\Debug\netstandard2.0\GeometryMindbox.dll
+C:\Users\Nik\source\repos\GeometryMindbox\GeometryMindbox\obj\Debug\netstandard2.0\GeometryMindbox.pdb
